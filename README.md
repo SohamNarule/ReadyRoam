@@ -1,5 +1,0 @@
-# ReadyRoam project 
--  React Project
-
-
-
